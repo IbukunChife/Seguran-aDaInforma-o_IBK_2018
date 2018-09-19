@@ -1,0 +1,2 @@
+# Para capturar em Hexadecimal os pacote que passa na redes:
+tcpdump -XX -i eno1 port 12000
